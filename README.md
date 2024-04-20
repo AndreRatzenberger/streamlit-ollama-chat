@@ -1,6 +1,9 @@
 
 # Streamlit with Ollama Integration
 
+![image](https://github.com/AndreRatzenberger/streamlit-ollama-chat/assets/44863088/4479bb83-e199-443f-9af7-7edd3ea1c8e0)
+
+
 ## Overview
 
 This repository contains a simple boilerplate application that integrates Ollama into Streamlit to enable chat functionalities using models provided by Ollama.
